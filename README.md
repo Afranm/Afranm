@@ -1,4 +1,4 @@
-- 👋 Hi there 
+👋 Hi there 
 - 🎓 I graduated with Bachelors in Mathematics from Queen Mary University of London
 - 📚 I completed my Data Analytics Training from Skills City 
 - 🌱 I'm currently learning to use Python for data analysis
