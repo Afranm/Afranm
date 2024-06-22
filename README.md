@@ -3,9 +3,8 @@ Hi there 👋
 - 📚 I completed my Data Analytics Training with Skills City 
 - 🌱 I'm currently learning to use Python for data analysis
 - 🧑 I'm looking for a Data Analyst Role in the Finance Sector
-  
-![AV5-B](https://github.com/Afranm/Afranm/assets/171168413/3b4b2502-55f6-43ab-8bea-87b9d8056dbd)
 
+![image](https://github.com/Afranm/Afranm/assets/171168413/572fc509-51a0-4981-aca0-1d4f5c436e33)
 
 
 
